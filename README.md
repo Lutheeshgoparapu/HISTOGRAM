@@ -20,8 +20,8 @@ Display the original and equalized image.
 
 ## PROGRAM:
 ~~~
-Developed By: V.A.Jithendra
-Register Number: 212221230043
+Developed By: G.Lutheesh
+Register Number: 212221230029
 ~~~
 # Write your code to find the histogram of gray scale image and color image channels.
 ~~~
@@ -74,14 +74,16 @@ cv2.destroyAllWindows
 ~~~
 ## OUTPPUT:
 ### Input Grayscale Image and Color Image
-![output](1.png)
+![1](https://github.com/Lutheeshgoparapu/HISTOGRAM/assets/94154531/7a96fac4-b997-4a80-9e44-7cafd54157e9)
+
 
 ### Histogram of Grayscale Image and any channel of Color Image
-![output](2.png)
-![output](3.png)
+![2](https://github.com/Lutheeshgoparapu/HISTOGRAM/assets/94154531/040f347d-f81b-4471-aa92-f95d8d0e46bf)
+
+![3](https://github.com/Lutheeshgoparapu/HISTOGRAM/assets/94154531/c6fb2007-2ec5-4a53-a25f-e3b1cdf0bd96)
 
 ### Histogram Equalization of Grayscale Image
-![output](4.png)
+![4](https://github.com/Lutheeshgoparapu/HISTOGRAM/assets/94154531/265a027b-8471-4df0-8ca7-01c006dc5628)
 
 ## RESULT: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
